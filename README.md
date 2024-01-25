@@ -1,5 +1,6 @@
 # Comprezy 
-## _Azzy's complete terminal file archiving tool!_
+## _Seans's complete terminal file archiving tool!_
+## --UNDER CONSTRUCTION--
 
 ### Desc:
 Comprezy is a terminal tool meant to ease the use of compression (gz and xz), encryption/decryption (gnupg), and archiving (tar) terminal tools. 
