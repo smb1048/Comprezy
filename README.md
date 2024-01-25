@@ -1,5 +1,5 @@
 # Comprezy 
-## _Seans's complete terminal file archiving tool!_
+## _Sean's complete terminal file archiving tool!_
 ## --REWORK IN PROGRESS--
 
 ### Desc:
